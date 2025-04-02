@@ -1,3 +1,24 @@
 {
-  "response": {}
+  "response": {
+    "servers": [
+      {
+        "addr": "62.56.147.170:16261",
+        "gameport": 16261,
+        "steamid": "90263932431725598",
+        "name": "DromitageRP.com",
+        "appid": 108600,
+        "gamedir": "zomboid",
+        "version": "1.0.0.0",
+        "product": "zomboid",
+        "region": -1,
+        "players": 0,
+        "max_players": 30,
+        "bots": 0,
+        "map": "AZSpawn;Muldraugh, KY",
+        "secure": true,
+        "dedicated": true,
+        "os": "l"
+      }
+    ]
+  }
 }
